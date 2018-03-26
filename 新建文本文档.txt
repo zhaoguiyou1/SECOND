@@ -1,4 +1,8 @@
 first time
+<<<<<<< HEAD
 second time 
 third time
 forth time
+=======
+second time 
+>>>>>>> parent of 3c109f7... 第三次
